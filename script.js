@@ -55,3 +55,9 @@ function convertToHex(value) {
         return value;
     }
 }
+
+
+
+//console.log(areaSquare(5.5, 3.3));
+//console.log(areaTriangle(5.5, 3.3));
+//console.log(areaCircle(2));
